@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Pastebin Raw Text",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Redirect requests for pastebin.com paste URLs to the raw text version",
   "background": {
     "scripts": ["background.js"]
@@ -9,6 +9,6 @@
   "permissions": [
     "webRequest",
     "webRequestBlocking",
-    "*://pastebin.com/*"
+    "http://pastebin.com/*"
   ]
 }
