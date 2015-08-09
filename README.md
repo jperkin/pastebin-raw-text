@@ -21,3 +21,7 @@ I haven't done anything fancy like uploading it to the Chrome Store and
 design fancy icons, so for now just clone this repository, switch Chrome
 Extensions into "Developer mode" and point "Load unpacked extension" at
 this checkout.
+
+### License
+
+ISC.
