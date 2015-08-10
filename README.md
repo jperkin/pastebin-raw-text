@@ -24,4 +24,8 @@ this checkout.
 
 ### License
 
-ISC.
+ISC.  The
+[icons](http://www.softicons.com/system-icons/hycons-icon-theme-by-gomez-hyuuga/mimetypes-text-plain-icon)
+are generously provided under the [CC BY-SA
+2.5](http://creativecommons.org/licenses/by-sa/2.5/) license by [Gomez
+Hyuuga](http://www.softicons.com/designers/gomez-hyuuga).  Thanks!
