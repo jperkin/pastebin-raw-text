@@ -17,8 +17,8 @@ users just what they need - the plain text!
 
 ### Installation
 
-This extension is available in the
-[https://chrome.google.com/webstore/detail/pastebin-raw-text/madpgppmbhecemnaicfpkokbookighmg](Chrome Web Store).
+This extension is available in the [Chrome Web
+Store](https://chrome.google.com/webstore/detail/pastebin-raw-text/madpgppmbhecemnaicfpkokbookighmg).
 
 Alternatively you can clone this repository then point at the checked out
 directory from __Settings -> Extensions -> Load unpackaged extension__ (you'll
