@@ -17,10 +17,13 @@ users just what they need - the plain text!
 
 ### Installation
 
-I haven't done anything fancy like uploading it to the Chrome Store and
-design fancy icons, so for now just clone this repository, switch Chrome
-Extensions into "Developer mode" and point "Load unpacked extension" at
-this checkout.
+This extension is available in the
+[https://chrome.google.com/webstore/detail/pastebin-raw-text/madpgppmbhecemnaicfpkokbookighmg](Chrome
+Web Store).
+
+Alternatively you can clone this repository then point the checked out
+directory at __Settings -> Extensions -> Load unpackaged extension__ (you'll
+need to have checked "Developer mode" to enable unpackaged installation).
 
 ### License
 
