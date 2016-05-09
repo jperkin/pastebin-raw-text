@@ -46,7 +46,7 @@ var urlcb = function (details)
 	 * This avoids false positives such as http://pastebin.com/settings
 	 */
 	var xhr = new XMLHttpRequest();
-	var rawurl = "http://pastebin.com/raw.php?i=" + pasteid;
+	var rawurl = "http://pastebin.com/raw/" + pasteid;
 
 	xhr.open("HEAD", rawurl, false);
 	xhr.send();
