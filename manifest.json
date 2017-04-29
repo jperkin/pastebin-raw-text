@@ -17,6 +17,6 @@
   "permissions": [
     "webRequest",
     "webRequestBlocking",
-    "http://pastebin.com/*"
+    "*://pastebin.com/*"
   ]
 }
