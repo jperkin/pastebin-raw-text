@@ -24,7 +24,7 @@ Alternatively you can clone this repository then point at the checked out
 directory from __Settings -> Extensions -> Load unpackaged extension__ (you'll
 need to have checked "Developer mode" to enable unpackaged installation).
 
-### License
+### License
 
 ISC.  The
 [icons](http://www.softicons.com/system-icons/hycons-icon-theme-by-gomez-hyuuga/mimetypes-text-plain-icon)
