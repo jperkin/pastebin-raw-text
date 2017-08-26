@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Pastebin Raw Text",
   "short_name": "pastebin.txt",
-  "version": "1.5",
+  "version": "1.6",
   "description": "Redirect requests for pastebin.com paste URLs to the raw text version",
   "homepage_url": "https://github.com/jperkin/pastebin-raw-text",
   "background": {
