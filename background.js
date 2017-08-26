@@ -46,7 +46,7 @@ var urlcb = function (details)
 	 * This avoids false positives such as http://pastebin.com/settings
 	 */
 	var xhr = new XMLHttpRequest();
-	var rawurl = "http://pastebin.com/raw/" + pasteid;
+	var rawurl = "https://pastebin.com/raw/" + pasteid;
 
 	xhr.open("HEAD", rawurl, false);
 	xhr.send();
@@ -62,12 +62,8 @@ var urlcb = function (details)
 	}
 }
 
-/*
- * Note that we don't bother handling HTTPS or preserving parser.protocol
- * as pastebin redirects HTTPS to HTTP first anyway (as of August 2015).
- */
 var filter = {
-	urls : ["http://pastebin.com/*"]
+	urls : ["*://pastebin.com/*"]
 };
 
 var extraspec = [
